@@ -1,0 +1,23 @@
+{
+  "name": "Intlethereum",
+  "chain": "IETH",
+  "icon": "uso",
+  "rpc": [
+    "https://chain.intlbanks.com"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "IETH",
+    "symbol": "USO",
+    "decimals": 18
+  },
+  "infoURL": "https://intlbanks.com",
+  "shortName": "ieth",
+  "chainId": 219,
+  "networkId": 219,
+  "explorers": [{
+    "name": "Intlethereum",
+    "url": "https://block.intlbanks.com/",
+    "standard": "EIP3091"
+  }]
+}
